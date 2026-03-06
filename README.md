@@ -3,4 +3,6 @@
 ```
 pip install requirements.txt
 ```
-Tech Stack :- HTML,CSS,JS, DJANGO
+## Tech Stack :- HTML,CSS,JS, DJANGO
+
+## Happy Learning
